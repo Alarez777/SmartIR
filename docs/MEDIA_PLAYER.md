@@ -163,6 +163,8 @@ Contributing to your own code files is welcome. However, we do not accept incomp
 | Code                                    | Supported Models | Controller |
 | --------------------------------------- | ---------------- | ---------- |
 | [1020](../codes/media_player/1020.json) | KDL-46HX800      | Broadlink  |
+| [1021](../codes/media_player/1021.json) | FST-ZX8          | Broadlink  |
+
 
 #### LG
 
